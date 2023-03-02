@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Computer_Vision&fontAlign=60)
 
-# CV_Seminar
 
 ## Week1) Neural Network
 - 1. <a>머신러닝과 딥러닝</a>
