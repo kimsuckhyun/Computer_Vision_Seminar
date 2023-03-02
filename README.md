@@ -1,4 +1,4 @@
-# Project Title
+# CV_Seminar
 
 One Paragraph of project description goes here
 
