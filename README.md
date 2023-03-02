@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Computer_Vision&fontAlign=60)
 
 
-## Week1) Neural Network
+## Week1) **Neural Network**
 - 1. <a>머신러닝과 딥러닝</a>
 - 2. <a>인공 신경망</a>
 - 3. <a>CNN</a>
